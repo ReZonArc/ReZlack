@@ -1,0 +1,25 @@
+{
+  "dm_id": "DM001",
+  "participants": ["U001", "U002"],
+  "created": "2026-01-18T09:00:00Z",
+  "messages": [
+    {
+      "message_id": "DM001-M001",
+      "user_id": "U001",
+      "timestamp": "2026-01-18T09:00:00Z",
+      "text": "Hey, do you have time for a quick sync today?"
+    },
+    {
+      "message_id": "DM001-M002",
+      "user_id": "U002",
+      "timestamp": "2026-01-18T09:05:00Z",
+      "text": "Sure! How about 2pm?"
+    },
+    {
+      "message_id": "DM001-M003",
+      "user_id": "U001",
+      "timestamp": "2026-01-18T09:06:00Z",
+      "text": "Perfect, see you then! 👍"
+    }
+  ]
+}

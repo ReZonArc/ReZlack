@@ -1,0 +1,11 @@
+{
+  "message_id": "M001",
+  "channel_id": "C001",
+  "user_id": "U001",
+  "timestamp": "2026-01-18T10:00:00Z",
+  "text": "Welcome to ReZlack! This is the general channel where everyone can share updates and announcements.",
+  "type": "message",
+  "reactions": [],
+  "thread_ts": null,
+  "reply_count": 0
+}

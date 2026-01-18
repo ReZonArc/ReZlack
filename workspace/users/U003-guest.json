@@ -1,0 +1,14 @@
+{
+  "user_id": "U003",
+  "username": "guest",
+  "display_name": "Guest User",
+  "real_name": "Guest",
+  "email": "guest@rezlack.com",
+  "status": "away",
+  "status_text": "Out for lunch",
+  "status_emoji": ":hamburger:",
+  "is_admin": false,
+  "is_owner": false,
+  "timezone": "Europe/London",
+  "created": "2026-01-18T00:00:00Z"
+}

@@ -1,0 +1,14 @@
+{
+  "user_id": "U002",
+  "username": "developer",
+  "display_name": "Dev User",
+  "real_name": "Developer",
+  "email": "dev@rezlack.com",
+  "status": "online",
+  "status_text": "Writing code",
+  "status_emoji": ":rocket:",
+  "is_admin": false,
+  "is_owner": false,
+  "timezone": "America/Los_Angeles",
+  "created": "2026-01-18T00:00:00Z"
+}

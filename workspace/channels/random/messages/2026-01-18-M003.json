@@ -1,0 +1,13 @@
+{
+  "message_id": "M003",
+  "channel_id": "C002",
+  "user_id": "U003",
+  "timestamp": "2026-01-18T11:00:00Z",
+  "text": "Anyone want to grab coffee? ☕",
+  "type": "message",
+  "reactions": [
+    {"emoji": "coffee", "users": ["U002"]}
+  ],
+  "thread_ts": null,
+  "reply_count": 0
+}
