@@ -1,0 +1,11 @@
+{
+  "channel_id": "C003",
+  "name": "dev-team",
+  "type": "private",
+  "created": "2026-01-18T00:00:00Z",
+  "creator": "U001",
+  "topic": "Development team discussions and coordination",
+  "description": "Private channel for development team members to collaborate on technical topics.",
+  "members": ["U001", "U002"],
+  "message_count": 0
+}

@@ -1,0 +1,11 @@
+{
+  "channel_id": "C001",
+  "name": "general",
+  "type": "public",
+  "created": "2026-01-18T00:00:00Z",
+  "creator": "U001",
+  "topic": "Company-wide announcements and general discussion",
+  "description": "This is the one channel that will include every member of your workspace.",
+  "members": ["U001", "U002", "U003"],
+  "message_count": 2
+}

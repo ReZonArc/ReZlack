@@ -1,0 +1,13 @@
+{
+  "message_id": "M002",
+  "channel_id": "C001",
+  "user_id": "U002",
+  "timestamp": "2026-01-18T10:15:00Z",
+  "text": "Thanks for setting this up! Looking forward to collaborating here.",
+  "type": "message",
+  "reactions": [
+    {"emoji": "thumbsup", "users": ["U001", "U003"]}
+  ],
+  "thread_ts": null,
+  "reply_count": 0
+}

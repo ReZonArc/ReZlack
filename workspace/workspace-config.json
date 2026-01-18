@@ -1,0 +1,13 @@
+{
+  "workspace_id": "W001",
+  "workspace_name": "ReZlack Workspace",
+  "workspace_url": "rezlack.slack.com",
+  "created": "2026-01-18T00:00:00Z",
+  "domain": "rezlack.com",
+  "email_domain": "rezlack.com",
+  "icon": {
+    "image_default": true
+  },
+  "enterprise_id": null,
+  "enterprise_name": null
+}

@@ -1,0 +1,14 @@
+{
+  "user_id": "U001",
+  "username": "admin",
+  "display_name": "Admin User",
+  "real_name": "Administrator",
+  "email": "admin@rezlack.com",
+  "status": "online",
+  "status_text": "Building ReZlack",
+  "status_emoji": ":computer:",
+  "is_admin": true,
+  "is_owner": true,
+  "timezone": "America/New_York",
+  "created": "2026-01-18T00:00:00Z"
+}

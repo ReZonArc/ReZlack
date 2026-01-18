@@ -1,0 +1,20 @@
+{
+  "thread_id": "T001",
+  "parent_message_id": "M001",
+  "channel_id": "C001",
+  "created": "2026-01-18T10:05:00Z",
+  "replies": [
+    {
+      "message_id": "M001-R001",
+      "user_id": "U002",
+      "timestamp": "2026-01-18T10:05:00Z",
+      "text": "Great to be here! When's our first team meeting?"
+    },
+    {
+      "message_id": "M001-R002",
+      "user_id": "U001",
+      "timestamp": "2026-01-18T10:10:00Z",
+      "text": "Let's schedule it for Monday at 10am. I'll send a calendar invite."
+    }
+  ]
+}
